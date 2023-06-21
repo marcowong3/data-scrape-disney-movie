@@ -1,6 +1,6 @@
 # Disney Movie Data Scrape
 In this project, I complete the data science steps to create a dataset from scratch. The dataset contains all the information found on each Disney movies' Wikipedia information box.
-<br /> Movie List: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
+<br /> <br /> Movie List: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
 
 ## Libraries/Helpers
 - Data Scraping: BeautifulSoup, Requests
