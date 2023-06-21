@@ -6,7 +6,7 @@ In this project, I complete the data science steps to create a dataset from scra
 - Data Scraping: BeautifulSoup, Requests
 - Save/Load Files: JSON, Pickle, CSV, Pandas
 - API: The Open Movie Database (http://www.omdbapi.com)
-- Others: urllib, os
+- Others: urllib, os, datetime, RegEx
 
 ## Tasks Outline
 ### Task 1
