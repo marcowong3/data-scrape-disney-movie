@@ -22,7 +22,7 @@ Attach IMDB/Rotten Tomatoes/Metascore Scores
 ### Task 5
 Remove Junk Columns
 ### Task 6
-Save data as CSV.
+Save final data as CSV/Pickle
 
 ## Result
 The final datasets ready for analysis are formatted as CSV and Pickle are found at [this folder](https://github.com/marcowong3/scrape-disney-movie/tree/main/disney_data_final) <br/>
