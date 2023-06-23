@@ -20,7 +20,9 @@ Clean Data, Test Code with Pytest
 ### Task 4
 Attach IMDB/Rotten Tomatoes/Metascore Scores
 ### Task 5
-Save data as JSON/CSV.
+Remove Junk Columns
+### Task 6
+Save data as CSV.
 
 ## Result
-The final datasets ready for analysis are formatted as CSV, JSON and Pickle are found at [this folder](https://github.com/marcowong3/scrape-disney-movie/tree/main/disney_data_final) <br/>
+The final datasets ready for analysis are formatted as CSV and Pickle are found at [this folder](https://github.com/marcowong3/scrape-disney-movie/tree/main/disney_data_final) <br/>
